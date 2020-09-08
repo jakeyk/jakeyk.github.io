@@ -8,5 +8,11 @@ body {
     
 }
 #div {
-    background-color: #bb7647;
+    background: #bb7647;
+    margin: 10px;
+}
+#div1 {
+    background: #242424;
+    color: #c7bdbd;
+    margin: bottom;
 }
