@@ -1,10 +1,11 @@
 body {
-    background: darkslategrey;
+    background: rgb(27, 27, 27);
     color: #bb7647;
     margin: 0;
     bottom: #bb7647;
     font-size: xx-large;
-    font-family: 'Franklin Gothic Medium','Arial Narrow Bold', sans-serif;
+    font-family: 'Roboto';
+    font-weight: bolder;
     
 }
 #div {
@@ -12,3 +13,4 @@ body {
     color: #c7bdbd;
     margin: bottom;
 }
+
