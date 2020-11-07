@@ -8,10 +8,9 @@ body {
     font-weight: bolder;
     
 }
-#div {
-    background: #242424;
-    color: #c7bdbd;
-    margin: bottom;
+
+div {
+    background-image: url('Neonic\ Space.jpg');
 }
 
 /* .button { 
