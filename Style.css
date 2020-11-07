@@ -10,7 +10,8 @@ body {
 }
 
 div {
-    background-image: url('Neonic\ Space.jpg');
+    background-image: url('Neonic\ Space.jpg'), 1000px, 1000px;
+
 }
 
 /* .button { 
